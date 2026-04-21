@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env
+
+# Data files (optional, remove if you want to upload data)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*.h5
+*.pt
+
+env/
